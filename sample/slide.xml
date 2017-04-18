@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<opt>
+  <anon id="0" color="bold blue" tm="15" type="HAND">
+    <head>How to use</head>
+    <data>Term::Presentation - Presentation　tool for Console</data>
+  </anon>
+
+  <anon id="1" color="green" tm="10" type="Text">
+    <head>Create slide</head>
+    <data>Create slide like this xml file</data>
+  </anon>
+
+  <anon id="2" color="blue" tm="10" type="marquee">
+    <head>Execute</head>
+    <data>new Term::Presentation('slide.xml')->out(number);
+    </data>
+  </anon>
+
+  <anon id="3" color="default" tm="10" type="marquee">
+    <head>End</head>
+    <data>Thanks</data>
+  </anon>
+</opt>
